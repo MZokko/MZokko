@@ -1,8 +1,12 @@
 ### Hi there, my name is Alex 👋
+-those last months had been quite challenging between :
+    -COVID pandemic, 
+    -graduating from my bachelor(mobile application developpement) here in sydney, 
+    -keeping those bills paid😅😂
 
 ## I'm a Developer, and a Traveller!
 
-- 🔭 I’m currently working on a react webpage that would support the business idea of my client
+- 🔭 I’m currently working on a react webpage that would support the business idea of my client, designing the UI
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
 - 👯 I’m looking to collaborate with other Developers and business creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects
