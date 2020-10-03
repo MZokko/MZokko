@@ -1,5 +1,5 @@
 ### Hi there, my name is Alex 👋
--those last months had been quite challenging between :<br/>
+- those last months had been quite challenging between :<br/>
     -COVID pandemic, <br/>
     -graduating from my bachelor(mobile application developpement) here in sydney, <br/>
     -keeping those bills paid😅😂<br/>
