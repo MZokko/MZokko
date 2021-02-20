@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a react webpage that would support the business idea of my client, designing the UI
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
 - 👯 I’m looking to collaborate with other Developers and business creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 
     I love to DRAW (originally from Paris , good in street art and Calligraphy), 
     I used to DESIGN my own street wear clothing(just for my own fun and friend request),
