@@ -7,9 +7,12 @@
 ## I'm a Developer, and a Traveller!
 
 - 🔭 I’m currently working on a react webpage that would support the business idea of my client, designing the UI
+
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
+
 - 👯 I’m looking to collaborate with other Developers and business creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+
+- 🥅 2022 Goals: Get more Certifications in the front end dev to boost up my chance, the main skill of a developer is to me his ability to keep learning new tech , and adapt them to new situations. In my case those free certification started online for those past months will come n boost my overall understand and confidence while developing new projects.
 - ⚡ Fun fact: 
     I love to DRAW (originally from Paris , good in street art and Calligraphy), 
     I used to DESIGN my own street wear clothing(just for my own fun and friend request),
