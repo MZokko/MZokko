@@ -3,6 +3,8 @@
     -COVID pandemic, <br/>
     -graduating from my bachelor(mobile application developpement) here in sydney, <br/>
     -keeping those bills paid😅😂<br/>
+    -Learning next.js and Tailwind 🤓<br/>
+    -Getting ready for a switch of webpack to Vite for future projects performance😅😂<br/>
 
 ## I'm a Developer, and a Traveller!
 
