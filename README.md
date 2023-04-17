@@ -10,9 +10,10 @@
 
 - 🔭 I’m currently working on a next js webpage that would support the business idea of my client, designing the UI
 
--  here a link to my previous [react page]: https://mzokko.github.io/
+-  here a link to my previous [react page]
 
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
+    - I have just finished an internship as a cyber security analyst 
 
 - 👯 I’m looking to collaborate with other Developers and business creators.
 
@@ -47,3 +48,5 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/alexandre-moradel-2310701b3
+[react page]: https://mzokko.github.io/
+
