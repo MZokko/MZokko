@@ -13,11 +13,14 @@
 -  here a link to my previous [react page]
 
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
-    - I have just finished an internship of 3 months as a cyber security analyst at [Respiro]
+    - I have just finished an internship of 3 months as a cyber security analyst at [Respiro] , more details can be found on my [linkedin]
 
 - 👯 I’m looking to collaborate with other Developers and business creators.
 
-- 🥅 2022 Goals: Get more Certifications in the front end dev to boost up my chance, the main skill of a developer is to me his ability to keep learning new tech , and adapt them to new situations. In my case those free certification started online for those past months will come n boost my overall understand and confidence while developing new projects.
+- 🥅 2023 Goals: getting more certification in developpement and Cyber security, as being a part of the IT field mean being a continous learner and growing in relevance of the IT field. 
+    
+- 🥅 2022 Goals: Get more Certifications in the front end dev to boost up my chance, the main skill of a developer is to me his ability to keep learning new tech , and adapt them to new situations. In my case those free certification started online for those past months will come n boost my overall understand and confidence while developing new projects. : ✅
+
 - ⚡ Fun fact: 
     I love to DRAW (originally from Paris , good in street art and Calligraphy), 
     I used to DESIGN my own street wear clothing(just for my own fun and friend request),
