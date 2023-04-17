@@ -13,7 +13,7 @@
 -  here a link to my previous [react page]
 
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
-    - I have just finished an internship as a cyber security analyst 
+    - I have just finished an internship of 3 months as a cyber security analyst at [Respiro]
 
 - 👯 I’m looking to collaborate with other Developers and business creators.
 
@@ -49,4 +49,5 @@
 
 [linkedin]: https://linkedin.com/in/alexandre-moradel-2310701b3
 [react page]: https://mzokko.github.io/
+[Respiro]: https://respiro.com.au/
 
