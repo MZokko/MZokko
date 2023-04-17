@@ -5,7 +5,7 @@
     -keeping those bills paid😅😂 ✅<br/>
     -Learning next.js and Tailwind 🤓 ✅<br/>
     -Learning Typescript<br/>
-    -Getting ready for a switch of webpack to Vite for future projects performance<br/>
+    -Getting ready for a switch of webpack to Vite for future projects performance ✅<br/>
 
 ## I'm a Developer, and a Traveller!
 
