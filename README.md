@@ -8,7 +8,9 @@
 
 ## I'm a Developer, and a Traveller!
 
-- 🔭 I’m currently working on a react webpage that would support the business idea of my client, designing the UI
+- 🔭 I’m currently working on a next js webpage that would support the business idea of my client, designing the UI
+
+-  here a link to my previous [react page]: https://mzokko.github.io/
 
 - 🌱 I’m always learning and keep myself update to the tech industry 🤓
 
