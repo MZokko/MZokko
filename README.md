@@ -1,11 +1,11 @@
 # Hi there, my name is Alex 👋
-- those last months had been quite challenging between :<br/>
-    -COVID pandemic, <br/>
-    -graduated from my bachelor(mobile application developpement) here in sydney, <br/>
-    -keeping those bills paid😅😂 ✅<br/>
+
+ -graduated from my bachelor(mobile application developpement) here in sydney, <br/>
+ -those last months had been quite challenging between :<br/>
     -Learning next.js and Tailwind 🤓 ✅<br/>
     -Learning Typescript<br/>
     -Getting ready for a switch of webpack to Vite for future projects performance ✅<br/>
+    -Completed a 3 months internship as cyber security analyst at Respiro
 
 ## I'm a Developer, and a Traveller!
 
